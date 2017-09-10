@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="THPT_Site.admin.Admin" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Trường Trung Học Cơ Sở Phường 2</title>
+    <link href="styles/Admin.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="container">
+        <div id="header">
+            <h2>Quản trị website</h2>
+            <h4>Trường THPT XYZ</h4>
+            <div id="account">
+                <span>Chào <b><%= Session["TaiKhoan"].ToString() %></b></span> | 
+                <a href="/admin/qlnd/doimatkhau.aspx">Đổi mật khẩu</a> |
+                <a href="/admin/thoat.aspx">Thoát</a>
+            </div>
+        </div>
+        <div id="menu">
+            <ul>
+                <li><a href="/admin/default.aspx">Trang chủ</a></li>                              
+                <li><a href="#">Nội dung</a>
+                    <ul>
+                        <li><a href="/admin/qlbv/dsbaiviet.aspx">Quản lý bài viết</a></li>
+                        <li><a href="/admin/qlbm/dsbomon.aspx">Quản lý bộ môn</a></li>
+                        <li><a href="/admin/qltl/dstheloai.aspx">Quản lý thể loại</a></li>
+                        <li><a href="/admin/qllh/dslienhe.aspx">Quản lý liên hệ</a></li>
+                        <li><a href="/admin/qllk/dslienket.aspx">Quản lý liên kết web</a></li>
+                    </ul>
+                </li>
+                <li><a href="/admin/qltv/thuvienanh.aspx">Thư viện ảnh</a></li>
+                <li><a href="/admin/qlmn/dsmenu.aspx">Menu</a></li>
+                <li><a href="#">Hệ thống</a>
+                    <ul>
+                        <li><a href="/admin/qlnd/dsnguoidung.aspx">Quản lý Người dùng</a></li>
+                    </ul>
+                </li>                
+            </ul>
+            <div class="clear"></div>
+        </div>
+        <div id="content">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server" ClientIDMode="Static">
+
+            </asp:ContentPlaceHolder>
+        </div>
+        <div id="footer">
+            <p>
+                Copyright &copy; 2015. All Rights Reserved.
+            </p>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

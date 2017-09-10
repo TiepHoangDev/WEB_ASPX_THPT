@@ -1,0 +1,213 @@
+﻿*{
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+
+a{
+    color: #000000;
+}
+
+.clear{
+    clear: both;
+}
+
+body {
+    background: #DFDFDF;
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 200%;
+}
+
+#container{
+    max-width: 1000px;
+    margin: 15px auto;
+    box-shadow: 0px 0px 15px #a09a9a;
+    -webkit-box-shadow: 0px 0px 15px #a09a9a;
+    -moz-box-shadow: 0px 0px 15px #a09a9a;
+    background: #F5F4F2;
+}
+
+#header{
+    background: #0092C0;
+    color: #ffffff;
+    padding: 10px;
+    border-bottom: medium solid #004575;
+    position: relative;
+}
+
+#account{
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px;
+}
+
+#account a{
+    color: #ffffff;
+}
+
+#account a:hover{
+    text-decoration: underline;
+}
+
+/*styles for menu*/
+#menu{
+    background: #F9F9F9;    
+    margin-bottom: 10px;  
+    border-bottom: 1px solid #E0E0E0;
+}
+
+#menu>ul{
+    margin-top: 0;
+}
+
+#menu>ul>li{
+    list-style: none;
+    float: left;
+    padding: 8px 20px;
+    position: relative;
+   
+}
+#menu>ul>li:last-child{
+    border-right: none;
+}
+
+#menu>ul>li>a{    
+    font-size: 14px; 
+    color: #000000        
+}
+
+#menu>ul>li>ul{
+    display: none;
+    position: absolute;
+    background: #e6e0e0;
+    top: 44px;
+    left: 0;
+    width: 165px;
+}
+
+#menu>ul>li:hover ul{
+    display: block;
+}
+
+#menu>ul li:hover{
+    background: #f2eded;    
+}
+
+#menu>ul li:hover a
+{
+    color: #000000
+}
+
+#menu>ul>li>ul>li{
+    padding: 10px 10px;    
+}
+
+#content{
+    background: #ffffff;
+    border: 1px solid #E0E0E0;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+
+#footer{
+    padding: 20px 10px;
+    text-align: center;
+}
+.title{
+    font-weight: 600;
+    border-bottom: 1px solid #000000;
+    padding-bottom: 8px;
+    margin-bottom: 10px;
+}
+
+/*styles cho định dạng bảng dữ liệu*/
+.dtable{
+    display: table;
+    margin: 50px auto;
+}
+
+.drow{
+    display: table-row;    
+}
+
+.dcell{
+    display: table-cell;
+    text-align: center;    
+    width: 200px;
+    padding: 10px;
+}
+
+.dcell a{
+    display: block;
+    border: 1px solid #DFDFDF;
+    padding: 10px;
+    max-height: 100px;
+    color: #000000;
+}
+.dcell a:hover{
+    background: #F5F4F2
+}
+
+.data-table th, .data-table td{
+    padding: 10px;
+    border: 1px solid #DFDFDF
+}
+
+.data-table th{
+    background: #F5F4F2;
+    text-align: left;
+}
+
+.data-table a{
+    color: #0000ff;
+}
+
+.data-table a:hover{
+    text-decoration: underline;
+}
+
+/*styles cho phân trang*/
+.gridview-pagination
+{
+    border: 1px solid #DFDFDF
+}
+
+.gridview-pagination td{
+    padding: 2px;
+    margin: 2% auto;
+    border: none;
+    
+}
+
+.gridview-pagination a
+{
+    font-family: Arial;
+    color: #000000;
+    font-size: 11px;
+    background: #DFDFDF;
+    padding: 5px 8px 5px 8px;
+    text-decoration: none;
+}
+
+.gridview-pagination a:hover
+{
+    background: #a09a9a;
+    text-decoration: none;
+}
+
+.gridview-pagination span
+{
+    font-family: Arial;
+    color: #000000;
+    font-size: 11px;
+    background: #a09a9a;
+    padding: 5px 8px 5px 8px;
+}

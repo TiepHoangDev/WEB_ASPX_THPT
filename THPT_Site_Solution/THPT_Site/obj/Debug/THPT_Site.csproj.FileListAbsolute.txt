@@ -1,0 +1,35 @@
+C:\Users\Hugh\Documents\Web Programming\THPT_Site_Solution\THPT_Site\bin\THPT_Site.dll.config
+C:\Users\Hugh\Documents\Web Programming\THPT_Site_Solution\THPT_Site\bin\THPT_Site.dll
+C:\Users\Hugh\Documents\Web Programming\THPT_Site_Solution\THPT_Site\bin\THPT_Site.pdb
+C:\Users\Hugh\Documents\Web Programming\THPT_Site_Solution\THPT_Site\bin\BUS.dll
+C:\Users\Hugh\Documents\Web Programming\THPT_Site_Solution\THPT_Site\bin\DTO.dll
+C:\Users\Hugh\Documents\Web Programming\THPT_Site_Solution\THPT_Site\bin\BUS.pdb
+C:\Users\Hugh\Documents\Web Programming\THPT_Site_Solution\THPT_Site\bin\DTO.pdb
+C:\Users\Hugh\Documents\Web Programming\THPT_Site_Solution\THPT_Site\obj\Debug\THPT_Site.csprojResolveAssemblyReference.cache
+C:\Users\Hugh\Documents\Web Programming\THPT_Site_Solution\THPT_Site\obj\Debug\THPT_Site.dll
+C:\Users\Hugh\Documents\Web Programming\THPT_Site_Solution\THPT_Site\obj\Debug\THPT_Site.pdb
+C:\Users\Hugh\Documents\Web Programming\THPT_Site_Solution\THPT_Site\bin\DAL.dll
+C:\Users\Hugh\Documents\Web Programming\THPT_Site_Solution\THPT_Site\bin\DAL.pdb
+D:\THPT_Site_Solution\THPT_Site\bin\THPT_Site.dll
+D:\THPT_Site_Solution\THPT_Site\bin\THPT_Site.pdb
+D:\THPT_Site_Solution\THPT_Site\bin\BUS.dll
+D:\THPT_Site_Solution\THPT_Site\bin\DTO.dll
+D:\THPT_Site_Solution\THPT_Site\bin\DAL.dll
+D:\THPT_Site_Solution\THPT_Site\bin\BUS.pdb
+D:\THPT_Site_Solution\THPT_Site\bin\DTO.pdb
+D:\THPT_Site_Solution\THPT_Site\bin\DAL.pdb
+D:\THPT_Site_Solution\THPT_Site\obj\Debug\THPT_Site.csprojResolveAssemblyReference.cache
+D:\THPT_Site_Solution\THPT_Site\obj\Debug\THPT_Site.dll
+D:\THPT_Site_Solution\THPT_Site\obj\Debug\THPT_Site.pdb
+D:\Lenovo_File\Zip\BaiTapASP\BaiTapASP\THPT_Site_Solution\THPT_Site_Solution\THPT_Site\bin\THPT_Site.dll.config
+D:\Lenovo_File\Zip\BaiTapASP\BaiTapASP\THPT_Site_Solution\THPT_Site_Solution\THPT_Site\bin\THPT_Site.dll
+D:\Lenovo_File\Zip\BaiTapASP\BaiTapASP\THPT_Site_Solution\THPT_Site_Solution\THPT_Site\bin\THPT_Site.pdb
+D:\Lenovo_File\Zip\BaiTapASP\BaiTapASP\THPT_Site_Solution\THPT_Site_Solution\THPT_Site\bin\BUS.dll
+D:\Lenovo_File\Zip\BaiTapASP\BaiTapASP\THPT_Site_Solution\THPT_Site_Solution\THPT_Site\bin\DTO.dll
+D:\Lenovo_File\Zip\BaiTapASP\BaiTapASP\THPT_Site_Solution\THPT_Site_Solution\THPT_Site\bin\DAL.dll
+D:\Lenovo_File\Zip\BaiTapASP\BaiTapASP\THPT_Site_Solution\THPT_Site_Solution\THPT_Site\bin\BUS.pdb
+D:\Lenovo_File\Zip\BaiTapASP\BaiTapASP\THPT_Site_Solution\THPT_Site_Solution\THPT_Site\bin\DTO.pdb
+D:\Lenovo_File\Zip\BaiTapASP\BaiTapASP\THPT_Site_Solution\THPT_Site_Solution\THPT_Site\bin\DAL.pdb
+D:\Lenovo_File\Zip\BaiTapASP\BaiTapASP\THPT_Site_Solution\THPT_Site_Solution\THPT_Site\obj\Debug\THPT_Site.csprojResolveAssemblyReference.cache
+D:\Lenovo_File\Zip\BaiTapASP\BaiTapASP\THPT_Site_Solution\THPT_Site_Solution\THPT_Site\obj\Debug\THPT_Site.dll
+D:\Lenovo_File\Zip\BaiTapASP\BaiTapASP\THPT_Site_Solution\THPT_Site_Solution\THPT_Site\obj\Debug\THPT_Site.pdb

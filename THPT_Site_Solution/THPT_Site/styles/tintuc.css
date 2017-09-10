@@ -1,0 +1,49 @@
+﻿.tintuc li{
+    height: 200px;
+    width: 100%;
+    margin: 5px;
+    clear: both;
+}
+
+.tintuc-content{
+    height: 150px;
+    margin: 4px;
+}
+
+.tintuc-content img{
+    width: 150px;
+    height:150px;
+    float: left;
+    border: 1px #0094ff dashed;
+    padding: 2px;
+}
+
+.tintuc-content p{
+    width: calc(100% - 200px);
+    height: 100%;
+    float: left;
+    padding: 5px 9px;
+}
+
+ul.pages{
+   height: 20px;
+   width: 100%; 
+   clear: both;
+   text-align: center;
+}
+
+.pages li{
+    display: inline-block;
+    background: #0094ff;
+    height: 20px;
+    width: 20px;
+    margin: 0 2px;
+    color: white;
+    text-align: center;
+    line-height: 20px;
+    cursor: pointer;
+}
+
+.pages .active{
+    background: red;
+}

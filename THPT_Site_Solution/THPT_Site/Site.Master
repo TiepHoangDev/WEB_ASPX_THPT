@@ -1,0 +1,101 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="THPT_Site.Site" %>
+
+<%@ Register Src="~/controls/ucLichLamViec.ascx" TagPrefix="uc1" TagName="ucLichLamViec" %>
+<%@ Register Src="~/controls/ucThongKe.ascx" TagPrefix="uc1" TagName="ucThongKe" %>
+<%@ Register Src="~/controls/ucTaiNguyenHocTap.ascx" TagPrefix="uc1" TagName="ucTaiNguyenHocTap" %>
+<%@ Register Src="~/controls/ucLienKetWebsite.ascx" TagPrefix="uc1" TagName="ucLienKetWebsite" %>
+
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Trường THCS PHƯỜNG 2</title>
+    <link href="styles/Site.css" rel="stylesheet" />
+    <link href="/images/logo3.png" rel="icon" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="wrapper">
+        <div id="header">
+            <a href="/default.aspx">
+                <img src="images/logo3.png" />
+                <h1>Trường Trung Học Cơ Sở Phường 2</h1>
+                <h4>Những hạt giống tương lai</h4>
+            </a>
+        </div>
+        <div id="mainMenu">
+            <ul style="width: 1000px">
+                <li class="home">
+                    <a href="/Default.aspx">
+                        <img src="images/home168.png" />
+                    </a>
+                </li>                                
+                <li><a href="#">Giới thiệu</a>
+                    <ul>
+                        <li><a href="#">Trường</a></li>
+                        <li><a href="#">Cơ cấu tổ chức</a></li>
+                        <li><a href="#">Tổ chuyên môn - Giáo viên</a></li>                        
+                    </ul>
+                </li>
+                <li><a href="/tintuc.aspx">Tin hoạt động</a></li>
+                <li><a href="#">Thông tin giáo dục</a></li>
+                <li><a href="#">Bảng vàng học sinh</a></li>
+                <li><a href="#">Tài nguyên học tập</a></li>
+                <li><a href="#">Thư viện ảnh</a></li>
+                <li><a href="#">Liên hệ</a></li>
+            </ul> 
+            <div class="clear"></div>
+        </div>
+        <div id="main-content">
+            <div id="left">
+                <div class="box">
+                    <h4>Lịch công tác tuần</h4>
+                    <div class="box-wrapper">
+                        <uc1:ucLichLamViec runat="server" id="ucLichLamViec" />                        
+                    </div>
+                </div>
+                <div class="box">
+                    <h4>Tài nguyên học tập</h4>
+                    <div class="box-wrapper">
+                        <uc1:ucTaiNguyenHocTap runat="server" id="ucTaiNguyenHocTap" />
+                    </div>
+                </div>
+                <div class="box">
+                    <h4>Liên kết wesite</h4>
+                    <div class="box-wrapper">
+                        <uc1:ucLienKetWebsite runat="server" id="ucLienKetWebsite" />
+                    </div>
+                </div>
+                <div class="box">
+                    <h4>Thống kê truy cập</h4>
+                    <div class="box-wrapper">
+                        <uc1:ucThongKe runat="server" id="ucThongKe" />
+                    </div>
+                </div>
+            </div>
+            <div id="content">
+                
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+                
+            </div>    
+            <div id="footer">
+                <p>
+                    Trường THCS PHƯỜNG 2<br />
+                    Địa chỉ: Khóm Vĩnh An- Phường 2- Thị Xã Vĩnh Châu- Sóc Trăng<br />
+                    Điện thoại: 0919 080520<br />
+                    Email: thcsphuong2vc@gmail.com.vn                               
+                </p>                     
+            </div>
+            <div class="copyright">
+                Copyright &copy; 2017. All Right BCD.
+            </div>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,13 @@
+C:\Users\Hugh\Documents\Web Programming\THPT_Site_Solution\DTO\bin\Debug\DTO.dll
+C:\Users\Hugh\Documents\Web Programming\THPT_Site_Solution\DTO\bin\Debug\DTO.pdb
+C:\Users\Hugh\Documents\Web Programming\THPT_Site_Solution\DTO\obj\Debug\DTO.dll
+C:\Users\Hugh\Documents\Web Programming\THPT_Site_Solution\DTO\obj\Debug\DTO.pdb
+D:\THPT_Site_Solution\DTO\bin\Debug\DTO.dll
+D:\THPT_Site_Solution\DTO\bin\Debug\DTO.pdb
+D:\THPT_Site_Solution\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\THPT_Site_Solution\DTO\obj\Debug\DTO.dll
+D:\THPT_Site_Solution\DTO\obj\Debug\DTO.pdb
+D:\Lenovo_File\Zip\BaiTapASP\BaiTapASP\THPT_Site_Solution\THPT_Site_Solution\DTO\bin\Debug\DTO.dll
+D:\Lenovo_File\Zip\BaiTapASP\BaiTapASP\THPT_Site_Solution\THPT_Site_Solution\DTO\bin\Debug\DTO.pdb
+D:\Lenovo_File\Zip\BaiTapASP\BaiTapASP\THPT_Site_Solution\THPT_Site_Solution\DTO\obj\Debug\DTO.dll
+D:\Lenovo_File\Zip\BaiTapASP\BaiTapASP\THPT_Site_Solution\THPT_Site_Solution\DTO\obj\Debug\DTO.pdb
