@@ -13,7 +13,7 @@
         <table cellpadding="5" cellspacing="5" class="auto-style1">
             <tr>
                 <td class="auto-style2">
-                    <img src="/images/link.png" />
+                    <img src="/images/link.png" style="width: 20px"/>
                 </td>
                 <td>
                     <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl='<%# Eval("URL") %>' Target='<%# Eval("Target") %>' Text='<%# Eval("TenSite") %>'></asp:HyperLink>

@@ -38,7 +38,7 @@
             
             <tr>
                 <td class="auto-style2" rowspan="5" style="text-align: center; padding-right: 10px;">
-                    <asp:Image ID="Image1" runat="server" Height="142px" ImageUrl="~/admin/images/icon_login.png" Width="144px" />
+                    <asp:Image ID="Image1" runat="server" Height="142px" ImageUrl="~/admin/images/dang nhap.png" Width="144px" />
                 </td>
                 <td>Tên đăng nhập</td>
             </tr>

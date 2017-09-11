@@ -11,3 +11,8 @@ D:\Lenovo_File\Zip\BaiTapASP\BaiTapASP\THPT_Site_Solution\THPT_Site_Solution\DTO
 D:\Lenovo_File\Zip\BaiTapASP\BaiTapASP\THPT_Site_Solution\THPT_Site_Solution\DTO\bin\Debug\DTO.pdb
 D:\Lenovo_File\Zip\BaiTapASP\BaiTapASP\THPT_Site_Solution\THPT_Site_Solution\DTO\obj\Debug\DTO.dll
 D:\Lenovo_File\Zip\BaiTapASP\BaiTapASP\THPT_Site_Solution\THPT_Site_Solution\DTO\obj\Debug\DTO.pdb
+E:\HPT\git\THPT\WEB_ASPX_THPT\THPT_Site_Solution\DTO\bin\Debug\DTO.dll
+E:\HPT\git\THPT\WEB_ASPX_THPT\THPT_Site_Solution\DTO\bin\Debug\DTO.pdb
+E:\HPT\git\THPT\WEB_ASPX_THPT\THPT_Site_Solution\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\HPT\git\THPT\WEB_ASPX_THPT\THPT_Site_Solution\DTO\obj\Debug\DTO.dll
+E:\HPT\git\THPT\WEB_ASPX_THPT\THPT_Site_Solution\DTO\obj\Debug\DTO.pdb

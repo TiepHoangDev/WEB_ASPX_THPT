@@ -31,7 +31,7 @@
             <ul style="width: 1000px">
                 <li class="home">
                     <a href="/Default.aspx">
-                        <img src="images/home168.png" />
+                        <img src="images/home.png" style="width: 16px"/>
                     </a>
                 </li>                                
                 <li><a href="#">Giới thiệu</a>
